@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidpacold
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning all about Twilio! 
+- 🌱 I’m currently learning all about Devops and Application Security! 
 - 📫 How to reach me: Find me on Linkedin @ https://linkedin.com/in/davidpacold
 
 <!---
